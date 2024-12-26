@@ -1,7 +1,7 @@
 {
-  "name": "lara",
-  "version": "1.0.0",
-  "description": "Lara-MD WhatsApp bot created Sadeesha With using Node.js",
+  "name": "FACKER_BOT",
+  "version": "2.0.1",
+  "description": "හලෝ මගෙ රත්තරං යාලුවනේ කෝමද ඔයාලට",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name lara",
