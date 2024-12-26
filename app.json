@@ -1,14 +1,14 @@
 {
-  "name": "LARA-MD",
-  "description": "LARA-MD Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ · · ·",
-  "logo": "https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg",
+  "name": "FACKER_BOT",
+  "description": "FACKER-MD Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ FACKER ᴄᴏᴅᴇʀ · · ·",
+  "logo": "https://ibb.co/gmCbV2R",
   "keywords": ["bot"],
   "success_url": "/",
 
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "HvpxXQRB#l2IMzpIkcWp5SeCaZg9EEuLKj5IJWFRgQKGYXKuMoII",
       "required": true,
       "value": "public"
     },  
